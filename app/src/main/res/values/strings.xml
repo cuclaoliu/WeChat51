@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">微信</string>
+
+    <string name="action_settings">设置</string>
+    <string name="chat">聊天</string>
+    <string name="friend">发现</string>
+    <string name="contact">通讯录</string>
+    <string name="friend_content">这是第二个页面，应该是添加朋友</string>
+    <string name="chat_content">这是第一个页面，应当是聊天</string>
+    <string name="contact_content">这是第三个页面，应该是联系人页面</string>
+</resources>
